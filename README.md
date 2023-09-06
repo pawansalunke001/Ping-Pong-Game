@@ -35,10 +35,12 @@ Language Used : Java (Project is build on Java Swing Library)
 ### Some Screenshots of the game
 
 - Starting Screen
-- ![Screenshot 2023-06-24 162416](https://github.com/meetgovindbajaj/Ping-Pong-Game/assets/117599205/2ee9202a-ed2f-432b-9da2-1107ed8cbb3d)
+![Screenshot (71)](https://github.com/pawansalunke001/Ping-Pong-Game/assets/133101693/037d1dd5-03d7-44cf-8a44-cf0d4cea709e)
+
 
 - Middle of the game
-- ![Screenshot 2023-06-24 162441](https://github.com/meetgovindbajaj/Ping-Pong-Game/assets/117599205/0a4e47fd-88ef-46c4-9036-35de37373e04)
+ ![Screenshot (67)](https://github.com/pawansalunke001/Ping-Pong-Game/assets/133101693/87ba96dd-e5e4-4260-acc0-496890b72b45)
+
 version https://git-lfs.github.com/spec/v1
 oid sha256:35866e40cde59f989ecb3f6c413c64e3426c47e0265cb5aafcf71a66dceb9884
 size 1663
